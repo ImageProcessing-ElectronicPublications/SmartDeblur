@@ -1,0 +1,25 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=ru_RU.UTF-8,Utf16=on,HugeFiles=on,64 bits,6 CPUs Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz (906EA),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1371920 bytes (1340 KiB)
+
+Listing archive: FFTW.zip
+
+--
+Path = FFTW.zip
+Type = zip
+Physical Size = 1371920
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-12-19 22:18:48 D....            0            0  FFTW
+2023-12-19 22:18:48 .....         3464         1363  FFTW/External_FFTW.cmake
+2023-12-19 22:18:48 .....        18144         4144  FFTW/fftw3.h
+2023-12-19 22:18:48 .....       906604       643067  FFTW/fftw3.pdf
+2023-12-19 22:18:48 D....            0            0  FFTW/libs
+2023-12-19 22:18:48 .....      2230660       700154  FFTW/libs/libfftw3-3.dll
+2023-12-19 22:18:48 .....       245098        22412  FFTW/libs/libfftw3-3.lib
+------------------- ----- ------------ ------------  ------------------------
+2023-12-19 22:18:48            3403970      1371140  5 files, 2 folders
